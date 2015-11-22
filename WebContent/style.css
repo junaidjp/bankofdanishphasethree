@@ -1,0 +1,26 @@
+body {background-color : lightgrey;}
+ 
+h3{	font-family: Algerian; 
+	font-size: 22pt; 
+	font-style: normal; 
+	font-weight: bold; 
+	color:Black;
+	text-align: center;}
+	
+table{	font-family: Calibri; 
+		color:white; 
+		font-size: 11pt; 
+		font-style: normal;
+		text-align:; 
+		background-color: SlateBlue; 
+		border-collapse: collapse; 
+		border: 2px solid navy;
+		margin-left:20px; 
+   		margin-right:auto;}
+
+table.inner{border: 0px}
+
+
+
+
+
